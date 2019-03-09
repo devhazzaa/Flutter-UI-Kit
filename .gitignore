@@ -10,3 +10,16 @@ build/
 
 .properties
 key.properties
+.idea/encodings.xml
+.idea/Flutter-UI-Kit.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/Dart_Packages.xml
+.idea/libraries/Dart_SDK.xml
+.idea/libraries/Flutter_Plugins.xml
+android/.idea/gradle.xml
+android/.idea/misc.xml
+android/.idea/runConfigurations.xml
+android/.idea/codeStyles/Project.xml
